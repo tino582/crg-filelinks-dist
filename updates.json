@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "crg-local-filesystem-links@pinocchio": {
+      "updates": [
+        {
+          "version": "0.0.7",
+          "update_link": "https://github.com/tino582/crg-filelinks-dist/releases/download/v0.0.7/crg-filelinks.xpi"
+        }
+      ]
+    }
+  }
+}
