@@ -3,8 +3,8 @@
     "crg-local-filesystem-links@pinocchio": {
       "updates": [
         {
-          "version": "0.0.10",
-          "update_link": "https://github.com/tino582/crg-filelinks-dist/releases/download/v0.0.10/crg_filelinks.xpi"
+          "version": "0.0.11",
+          "update_link": "https://github.com/tino582/crg-filelinks-dist/releases/download/v0.0.11/crg_filelinks.xpi"
         }
       ]
     }
